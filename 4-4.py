@@ -14,7 +14,7 @@ for i in range(10):
         k+=1
 
 print(k)
-'''-------------
+'''---------
 arr=[]
 Arr=[]
 for i in range(10):
